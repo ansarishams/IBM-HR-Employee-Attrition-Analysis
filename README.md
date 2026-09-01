@@ -1010,3 +1010,20 @@ IBM-HR-Employee-Attrition-Analysis/
 │   └── Insights.png
 │
 └── README.md
+
+
+## 🙋‍♂️ Author
+
+
+I am **SHAMSUL HODA** an aspiring **Data Analyst** focused on building practical skills in **SQL, Power BI, Excel and Data Analysis**.
+
+I enjoy working with real-world business problems, analyzing data to find meaningful patterns, and turning those findings into clear dashboards and actionable business insights.
+
+This project is part of my **Data Analyst portfolio**, where I am applying my SQL and Power BI skills to solve business problems and present data in a simple, decision-oriented way.
+
+### 🔗 Connect With Me
+
+- **LinkedIn:** [(https://www.linkedin.com/in/shamsul-hoda-s4632/)]
+- **GitHub:** [Add your GitHub profile here]
+
+Feel free to ⭐ this repo if you found it useful!
