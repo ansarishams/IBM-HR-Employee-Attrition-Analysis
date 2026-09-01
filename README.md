@@ -1025,6 +1025,6 @@ This project is part of my **Data Analyst portfolio**, where I am applying my SQ
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Shamsul%20Hoda-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamsul-hoda-s4632/)
 
-[![GitHub](https://img.shields.io/badge/GitHub-AnsariShams-black?logo=github&logoColor=white)](https://github.com/ansarishams)
+[![GitHub](https://img.shields.io/badge/GitHub-AnsariShams-black?logo=github&logoColor=grey)](https://github.com/ansarishams)
 
 Feel free to ⭐ this repo if you found it useful!
