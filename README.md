@@ -1023,7 +1023,7 @@ This project is part of my **Data Analyst portfolio**, where I am applying my SQ
 
 ### 🔗 Connect With Me
 
-- **LinkedIn:** [(https://www.linkedin.com/in/shamsul-hoda-s4632/)]
-- **GitHub:** [Add your GitHub profile here]
+![Linkedin](https://www.linkedin.com/in/shamsul-hoda-s4632/).
+![Github](https://github.com/ansarishams).
 
 Feel free to ⭐ this repo if you found it useful!
