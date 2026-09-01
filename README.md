@@ -1023,10 +1023,8 @@ This project is part of my **Data Analyst portfolio**, where I am applying my SQ
 
 ### 🔗 Connect With Me
 
-### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shamsul%20Hoda-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shamsul-hoda-s4632/)
 
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="25"/> LinkedIn](https://www.linkedin.com/in/shamsul-hoda-s4632/)
-&nbsp;&nbsp;&nbsp;
-[<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="25"/> GitHub](https://github.com/ansarishams)
+[![GitHub](https://img.shields.io/badge/GitHub-AnsariShams-black?logo=github&logoColor=white)](https://github.com/ansarishams)
 
 Feel free to ⭐ this repo if you found it useful!
